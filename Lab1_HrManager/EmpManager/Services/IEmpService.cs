@@ -14,6 +14,6 @@ namespace EmpManager.Services
         Employee removeEmp(int id);
         Employee findEmp(int id);
         Employee displayEmp(int id);
-        void updateSalary(int id,float sal);
+        Employee updateSalary(int id,float sal);
     }
 }

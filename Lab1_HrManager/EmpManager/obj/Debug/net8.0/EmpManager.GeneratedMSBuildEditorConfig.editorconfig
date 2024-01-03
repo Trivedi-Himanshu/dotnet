@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmpManager
-build_property.ProjectDir = E:\Cdac\DotNet\Day4\Lab1_HrManager\EmpManager\
+build_property.ProjectDir = E:\Himanshu_Pratik\dotnet\gti\dotnet\Lab1_HrManager\EmpManager\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Shree\\.nuget\\packages\\": {}
+    "C:\\Users\\dac\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Cdac\\DotNet\\Day4\\Lab1_HrManager\\EmpManager\\EmpManager.csproj",
+      "projectUniqueName": "E:\\Himanshu_Pratik\\dotnet\\gti\\dotnet\\Lab1_HrManager\\EmpManager\\EmpManager.csproj",
       "projectName": "EmpManager",
-      "projectPath": "E:\\Cdac\\DotNet\\Day4\\Lab1_HrManager\\EmpManager\\EmpManager.csproj",
-      "packagesPath": "C:\\Users\\Shree\\.nuget\\packages\\",
-      "outputPath": "E:\\Cdac\\DotNet\\Day4\\Lab1_HrManager\\EmpManager\\obj\\",
+      "projectPath": "E:\\Himanshu_Pratik\\dotnet\\gti\\dotnet\\Lab1_HrManager\\EmpManager\\EmpManager.csproj",
+      "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+      "outputPath": "E:\\Himanshu_Pratik\\dotnet\\gti\\dotnet\\Lab1_HrManager\\EmpManager\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Shree\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

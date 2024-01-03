@@ -26,7 +26,7 @@ namespace EmpManager.entities
             Id = id;
             BasicSal = basicSal;
             Tax = (float)0.15;
-            Da = (float)200;
+            Da = (float)2000;
             Pf = (float)0.2;
             Name = name;
         }
