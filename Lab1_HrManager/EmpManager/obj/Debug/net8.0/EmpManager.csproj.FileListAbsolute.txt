@@ -1,0 +1,14 @@
+E:\Cdac\DotNet\Day4\Lab1_HrManager\EmpManager\bin\Debug\net8.0\EmpManager.exe
+E:\Cdac\DotNet\Day4\Lab1_HrManager\EmpManager\bin\Debug\net8.0\EmpManager.deps.json
+E:\Cdac\DotNet\Day4\Lab1_HrManager\EmpManager\bin\Debug\net8.0\EmpManager.runtimeconfig.json
+E:\Cdac\DotNet\Day4\Lab1_HrManager\EmpManager\bin\Debug\net8.0\EmpManager.dll
+E:\Cdac\DotNet\Day4\Lab1_HrManager\EmpManager\bin\Debug\net8.0\EmpManager.pdb
+E:\Cdac\DotNet\Day4\Lab1_HrManager\EmpManager\obj\Debug\net8.0\EmpManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cdac\DotNet\Day4\Lab1_HrManager\EmpManager\obj\Debug\net8.0\EmpManager.AssemblyInfoInputs.cache
+E:\Cdac\DotNet\Day4\Lab1_HrManager\EmpManager\obj\Debug\net8.0\EmpManager.AssemblyInfo.cs
+E:\Cdac\DotNet\Day4\Lab1_HrManager\EmpManager\obj\Debug\net8.0\EmpManager.csproj.CoreCompileInputs.cache
+E:\Cdac\DotNet\Day4\Lab1_HrManager\EmpManager\obj\Debug\net8.0\EmpManager.dll
+E:\Cdac\DotNet\Day4\Lab1_HrManager\EmpManager\obj\Debug\net8.0\refint\EmpManager.dll
+E:\Cdac\DotNet\Day4\Lab1_HrManager\EmpManager\obj\Debug\net8.0\EmpManager.pdb
+E:\Cdac\DotNet\Day4\Lab1_HrManager\EmpManager\obj\Debug\net8.0\EmpManager.genruntimeconfig.cache
+E:\Cdac\DotNet\Day4\Lab1_HrManager\EmpManager\obj\Debug\net8.0\ref\EmpManager.dll
